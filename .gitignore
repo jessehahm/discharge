@@ -2,6 +2,8 @@
 Thumbs.db
 ehthumbs.db
 
+*.credentials
+
 # Folder config file
 Desktop.ini
 
